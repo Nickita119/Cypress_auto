@@ -1,0 +1,2 @@
+# Cypress_auto
+AutoTestsonCypressJS
